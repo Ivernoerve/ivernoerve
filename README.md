@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align='center'style='font-family:serif; font-weight:200;'>Iver Nørve</h1>
+
+👋 Hi there, I'm ivernoerve. 
+
+🔭 Currently interning as a research assistant this summer for the machine learning group at the university of Tromsø.
+
+🌱 Interested in machine learning, graph theory, and data analysis.
+
+Check out some of my projects (and recipes) on my gohugo based [webpage](https://iver.noerve.com)!
 
 <!--
 **Ivernoerve/ivernoerve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
