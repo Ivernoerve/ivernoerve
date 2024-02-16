@@ -1,8 +1,6 @@
 <h1 align='center'style='font-family:serif; font-weight:200;'>Iver Nørve</h1>
 
-👋 Hi there, I'm ivernoerve. 
-
-🔭 Currently interning as a research assistant this summer for the machine learning group at the university of Tromsø.
+👋 Hi there, I'm ivernoerve.
 
 🌱 Interested in machine learning, graph theory, and data analysis.
 
